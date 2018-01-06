@@ -8,3 +8,8 @@
       of scores and averages with appropriate headings. Use pointer notation rather than array notation whenever possible.   
       
       Input Validation: Do not accept negative numbers for test scores.    
+
+ 3.    Drop Lowest Score 
+       
+       Modify Problem 2 above so the lowest test score is dropped. This score should not be included in the calculation 
+       of the average. 
